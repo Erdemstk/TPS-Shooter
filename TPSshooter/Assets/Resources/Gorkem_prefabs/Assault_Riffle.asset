@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94c7bf30f998db443ae331f88cd68fa8, type: 3}
+  m_Name: Assault_Riffle
+  m_EditorClassIdentifier: 
+  weaponSprite: {fileID: 21300000, guid: 7776bd58ea8c26c4685d0ad048ad0fae, type: 3}
+  weaponPrefab: {fileID: 6482210706414188242, guid: 426507e0aa9b23d40a46f5544b266325, type: 3}
+  typeName: Assault_Riffle
+  magazineCapacity: 30
+  maxBulletCap: 90
+  currentTotalBulletAmount: 50
+  currentBulletAmount: 20
+  handGun: 0
+  automaticRifle: 1
+  projectile: 0
+  damage: 0
+  rayCastPoint: {fileID: 1825151918710454104, guid: 426507e0aa9b23d40a46f5544b266325, type: 3}
